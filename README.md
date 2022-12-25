@@ -4,7 +4,8 @@ Initially, the goal of this project is to construct a simple machine learning mo
 
 
 
-MLP Algorithm 
+MLP Algorithm
+
 Step 1: Set the weight and bias to a small-random value.
 
 Step 2: Forward Propagation, which involves propagating all values from the input layer to the output layer.
