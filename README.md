@@ -4,6 +4,10 @@ Initially, the goal of this project is to construct a simple machine learning mo
 
 
 
+
+
+
+
 MLP Algorithm
 
 Step 1: Set the weight and bias to a small-random value.
